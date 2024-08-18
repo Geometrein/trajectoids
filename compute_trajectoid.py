@@ -1,3 +1,4 @@
+# adapted from https://github.com/yaroslavsobolev/trajectoids/blob/main/compute_trajectoid.py
 import os
 import logging
 from math import atan2
