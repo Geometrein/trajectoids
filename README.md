@@ -9,7 +9,7 @@
 ## Introduction
 The article was initially published on Medium this directory contains the code used for the article: 
 
-[![Medium](https://img.shields.io/badge/Medium_Article-0088CC?style=for-the-badge&logo=medium&logoColor=white)]()
+[![Medium](https://img.shields.io/badge/Medium_Article-0088CC?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@geometrein/how-to-rick-roll-a-data-scientist-1da98962feae)
 
 [![LinedIn](https://img.shields.io/badge/LinkedIn_Article-0088CC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/pulse/how-rick-roll-data-scientist-tigran-khachatryan-r1jif/)
 
